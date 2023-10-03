@@ -14,8 +14,8 @@ Make sure you have Node.js and npm installed on your machine.
    npm install
 ## Usage
 To start the application, run:
-```bash
-node solution.js
+  ```bash
+  node solution.js
 
 1. Open your web browser and navigate to http://localhost:3000.
 2. You will be prompted to enter a password. The default password is set to "Hola".
